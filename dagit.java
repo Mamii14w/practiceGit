@@ -9,6 +9,7 @@ public class Question5 {
         int f1=0,f2=1,n,next;
         
         Scanner in=new Scanner(System.in);
+        
         System.out.println("Enter the number to be calculated");
         n=in.nextInt();
         if(n<0)
